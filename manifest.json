@@ -1,0 +1,54 @@
+{
+  ".gitignore": {
+    "bytes": 84,
+    "sha256": "236b4d2ec4b139377902fca5842d9d5eadb0142cd4f5458e1c7d6690c22f2a42"
+  },
+  "LICENSE": {
+    "bytes": 34523,
+    "sha256": "0d96a4ff68ad6d4b6f1f30f713b18d5184912ba8dd389f86aa7710db079abcb0"
+  },
+  "README.md": {
+    "bytes": 1981,
+    "sha256": "c686ce649c41c4dea9bcbe3029fa6777f96aabd5f8e98d81a21c2052ca97d588"
+  },
+  "VITAL_LICENSE": {
+    "bytes": 35149,
+    "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+  },
+  "_headers": {
+    "bytes": 81,
+    "sha256": "6af68a5a02c4f1c7dc12333ffbbad7ffea2edbd7ed2fba72147ca568748780c4"
+  },
+  "build/vital_engine_simd.js": {
+    "bytes": 9965851,
+    "sha256": "9e183d66395a420374fa1176915b2feab20868d8491eac5297e21b050de38986"
+  },
+  "example.strudel.js": {
+    "bytes": 440,
+    "sha256": "66f02136de074cf14f2978edeedf531521e314f90b009d4403e2eb8af7961f5e"
+  },
+  "grammar.mjs": {
+    "bytes": 40865,
+    "sha256": "b3b3c4accc4c4161b761286b31ac9a2fe6e16a74f6cca2ed4a8337834101d55b"
+  },
+  "loader.js": {
+    "bytes": 3311,
+    "sha256": "9e63844d47ad0d6a03d0195da6a0725103cfd6b3dd5dedc35c5e08f692819524"
+  },
+  "ready_patch.js": {
+    "bytes": 1214,
+    "sha256": "226e6d244d382c99c7ebc40ff65f13656d3733d83cd0fb8b6817ed06490635dc"
+  },
+  "source.tar.gz": {
+    "bytes": 6890911,
+    "sha256": "76e43228eba5e07a1db945653dad9cf6bd9d74225dbc28bb62243923691ac1d1"
+  },
+  "strudel2.js": {
+    "bytes": 12116,
+    "sha256": "c2be9b6b56e97511ef178c758e4310564e2e58d15c396640de411b999cf30703"
+  },
+  "worklet.js": {
+    "bytes": 27633,
+    "sha256": "1c773a8c8df03336e6e6700ae909d30d379a523cd9d2dbf06b3d55736493097b"
+  }
+}
