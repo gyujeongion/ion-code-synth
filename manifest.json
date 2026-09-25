@@ -8,8 +8,8 @@
     "sha256": "0d96a4ff68ad6d4b6f1f30f713b18d5184912ba8dd389f86aa7710db079abcb0"
   },
   "README.md": {
-    "bytes": 1981,
-    "sha256": "c686ce649c41c4dea9bcbe3029fa6777f96aabd5f8e98d81a21c2052ca97d588"
+    "bytes": 2028,
+    "sha256": "17a83ebf2b38fd15622504d3269e7e5f6f7453ddfefaa9066d6d9e4aa58be553"
   },
   "VITAL_LICENSE": {
     "bytes": 35149,
@@ -40,8 +40,8 @@
     "sha256": "226e6d244d382c99c7ebc40ff65f13656d3733d83cd0fb8b6817ed06490635dc"
   },
   "source.tar.gz": {
-    "bytes": 6890911,
-    "sha256": "76e43228eba5e07a1db945653dad9cf6bd9d74225dbc28bb62243923691ac1d1"
+    "bytes": 6890900,
+    "sha256": "740f7373815ef64dc79ace6687d3b76241ad77537b96da120d0affcffc9be344"
   },
   "strudel2.js": {
     "bytes": 12116,

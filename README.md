@@ -22,4 +22,4 @@ This release includes the 10 MB browser engine, JavaScript grammar and AudioWork
 
 The browser bridge is AGPLv3; modified Vital engine code remains GPLv3. See [LICENSE](LICENSE), [VITAL_LICENSE](VITAL_LICENSE), and upstream [Strudel](https://codeberg.org/uzu/strudel) and [Vital](https://github.com/mtytel/vital) projects. Third-party source notices are retained in the archive. This repository contains no author's preset, song, MIDI, or audio recording.
 
-Browser playback was confirmed with modules on a separate local origin. Public jsDelivr delivery must be confirmed after this release is uploaded.
+Browser playback was confirmed on https://strudel.cc using the pinned public jsDelivr URL in headless Chromium: the patch registered and the AudioWorklet produced audio (peak 0.289, RMS 0.088).
